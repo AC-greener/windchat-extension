@@ -6,7 +6,7 @@ import CodeBlockTailwind from './CodeBlockTailwind';
 import { PreviewBlockToolbar } from './PreviewBlockToolbar';
 
 export function CodeBlock({ mode, code }) {
-  // if (mode === Mode.tailwind) {
+  // if (mode === Mode.tailwind) { 
   //   //   for (const code of codeList) {
   //   //     const codeBlock = document.createElement('code');
 
